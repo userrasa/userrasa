@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  Building tools, automating workflows, and customizing Linux environments.
+  Building Linux tools, automating workflows, and improving desktop environments.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-~~~yaml
+```yaml
 name: Rasa
 
 focus:
@@ -30,29 +30,7 @@ focus:
 building:
   - Ubuntu Desktop Optimizer
   - Linux Utilities
-  - Web Projects
-
-learning:
-  - Advanced Docker
-  - Cloud Infrastructure
-  - Modern Web Development
-~~~
-
----
-
-## ⚡ Toolbox
-
-<div align="center">
-
-| 🐧 Linux | 🐳 Docker | ⚙️ Automation |
-|:---:|:---:|:---:|
-| Ubuntu | Containers | Bash Scripts |
-
-| 🖥️ Desktop | 🌐 Web | 🔧 Tools |
-|:---:|:---:|:---:|
-| GNOME | WordPress | Developer Utilities |
-
-</div>
+```
 
 ---
 
@@ -70,20 +48,34 @@ learning:
 
 A Linux toolkit for diagnosing, optimizing, and repairing Ubuntu systems through automated checks.
 
-### Features
+Features:
 
 - 🔍 System health scanning
-- 🛠️ Automated troubleshooting
+- 🛠 Automated troubleshooting
 - 📦 Package management
 - ⚙️ Service diagnostics
-- 🔐 Permission checking
-- 🖥️ GNOME customization helpers
+- 🔐 Permission checks
+- 🖥 GNOME customization helpers
+
+---
+
+## ⚡ Toolbox
+
+<p align="center">
+
+🐧 Linux &nbsp;&nbsp; 
+🐳 Docker &nbsp;&nbsp;
+⚙️ Bash &nbsp;&nbsp;
+🖥 Ubuntu &nbsp;&nbsp;
+🌐 WordPress
+
+</p>
 
 ---
 
 ## 🧩 Currently Building
 
-~~~text
+```text
 Ubuntu Desktop Optimizer
 
 ├── System Scanner
@@ -91,17 +83,7 @@ Ubuntu Desktop Optimizer
 ├── Automation Scripts
 ├── GNOME Customization
 └── Linux Utilities
-~~~
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=userrasa&show_icons=true&theme=transparent&hide_border=true" />
-
-</p>
+```
 
 ---
 
@@ -110,11 +92,13 @@ Ubuntu Desktop Optimizer
 <p align="center">
 
 <a href="https://github.com/userrasa">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+GitHub
 </a>
 
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
 <a href="https://worldcupfa.ir">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome" />
+Website
 </a>
 
 </p>
@@ -122,5 +106,5 @@ Ubuntu Desktop Optimizer
 ---
 
 <p align="center">
-  <i>Building Linux tools, improving systems, and exploring open source.</i>
+  <i>Building Linux tools and exploring open source.</i>
 </p>
