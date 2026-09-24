@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center">
-  Linux Enthusiast • Ubuntu Customization • Automation • Web Development
+  Linux • System Automation • Ubuntu Customization • Web Development
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Building+Linux+Tools;Automating+Systems;Creating+Modern+Web+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Building+Linux+Tools;Automating+Workflows;Customizing+Desktop+Environments;Creating+Web+Projects" />
 </p>
 
 ---
@@ -17,20 +17,23 @@
 ```yaml
 name: Rasa
 
-focus:
-  - Linux
-  - Ubuntu Desktop
-  - System Automation
-  - Web Development
+passionate_about:
+  - Linux systems
+  - Ubuntu desktop customization
+  - Automation tools
+  - Open source projects
 
-currently_building:
+building:
   - Ubuntu Desktop Optimizer
-  - Custom Linux Workflows
+  - Linux utilities
+  - Web applications
 
-interests:
-  - Open Source
-  - UI/UX
-  - Developer Tools
+working_with:
+  - Bash
+  - Docker
+  - WordPress
+  - JavaScript
+  - PHP
 ```
 
 ---
@@ -47,15 +50,16 @@ interests:
 
 ### Ubuntu Desktop Optimizer
 
-A Bash-based toolkit that scans, diagnoses, and repairs common Ubuntu system issues.
+A Linux maintenance toolkit designed to help Ubuntu users diagnose, optimize, and repair their systems through automated checks.
 
 Features:
 
 - 🔍 System health scanning
-- 🔧 Automatic repair
-- 📦 Package management
+- 🛠️ Automated troubleshooting
+- 📦 Package management utilities
 - ⚙️ Service diagnostics
-- 🔐 Permission checks
+- 🔐 Permission and system checks
+- 🖥️ Desktop environment optimization
 
 ---
 
@@ -69,33 +73,21 @@ Features:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=userrasa&show_icons=true&theme=transparent&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=userrasa&theme=transparent&hide_border=true" />
-
-</p>
-
----
-
-## 🧩 What I'm Working On
+## 🧩 Current Focus
 
 ```text
-Ubuntu Desktop Optimizer
+Linux Environment
 
-├── System Scanner
-├── Repair Engine
-├── GNOME Customization
-├── Automation Scripts
-└── Linux Utilities
+├── Ubuntu Customization
+├── GNOME Extensions
+├── System Automation
+├── Developer Workflows
+└── Open Source Tools
 ```
 
 ---
 
-## 🌐 Connect
+## 🌐 Projects & Links
 
 <p align="center">
 
@@ -112,5 +104,5 @@ Ubuntu Desktop Optimizer
 ---
 
 <p align="center">
-  <i>Building tools, improving systems, and exploring Linux.</i>
+  <i>Building tools, automating systems, and exploring Linux.</i>
 </p>
