@@ -1,40 +1,58 @@
 <h1 align="center">
-  Hi 👋 I'm Rasa
+  👋 Hi, I'm Rasa
 </h1>
 
 <h3 align="center">
-  Linux • System Automation • Ubuntu Customization • Web Development
+  Linux Systems Builder • Ubuntu Customization • Automation
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Building+Linux+Tools;Automating+Workflows;Customizing+Desktop+Environments;Creating+Web+Projects" />
+  Building tools, automating workflows, and customizing Linux environments.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Building+Linux+Tools;Automating+Systems;Customizing+Ubuntu;Creating+Developer+Workflows" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-```yaml
+~~~yaml
 name: Rasa
 
-passionate_about:
-  - Linux systems
-  - Ubuntu desktop customization
-  - Automation tools
-  - Open source projects
+focus:
+  - Linux Systems
+  - Ubuntu Customization
+  - System Automation
+  - Open Source Tools
 
 building:
   - Ubuntu Desktop Optimizer
-  - Linux utilities
-  - Web applications
+  - Linux Utilities
+  - Web Projects
 
-working_with:
-  - Bash
-  - Docker
-  - WordPress
-  - JavaScript
-  - PHP
-```
+learning:
+  - Advanced Docker
+  - Cloud Infrastructure
+  - Modern Web Development
+~~~
+
+---
+
+## ⚡ Toolbox
+
+<div align="center">
+
+| 🐧 Linux | 🐳 Docker | ⚙️ Automation |
+|:---:|:---:|:---:|
+| Ubuntu | Containers | Bash Scripts |
+
+| 🖥️ Desktop | 🌐 Web | 🔧 Tools |
+|:---:|:---:|:---:|
+| GNOME | WordPress | Developer Utilities |
+
+</div>
 
 ---
 
@@ -50,53 +68,53 @@ working_with:
 
 ### Ubuntu Desktop Optimizer
 
-A Linux maintenance toolkit designed to help Ubuntu users diagnose, optimize, and repair their systems through automated checks.
+A Linux toolkit for diagnosing, optimizing, and repairing Ubuntu systems through automated checks.
 
-Features:
+### Features
 
 - 🔍 System health scanning
 - 🛠️ Automated troubleshooting
-- 📦 Package management utilities
+- 📦 Package management
 - ⚙️ Service diagnostics
-- 🔐 Permission and system checks
-- 🖥️ Desktop environment optimization
+- 🔐 Permission checking
+- 🖥️ GNOME customization helpers
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Currently Building
+
+~~~text
+Ubuntu Desktop Optimizer
+
+├── System Scanner
+├── Repair Engine
+├── Automation Scripts
+├── GNOME Customization
+└── Linux Utilities
+~~~
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,js,php,wordpress,vscode" />
+<img src="https://github-readme-stats.vercel.app/api?username=userrasa&show_icons=true&theme=transparent&hide_border=true" />
 
 </p>
 
 ---
 
-## 🧩 Current Focus
-
-```text
-Linux Environment
-
-├── Ubuntu Customization
-├── GNOME Extensions
-├── System Automation
-├── Developer Workflows
-└── Open Source Tools
-```
-
----
-
-## 🌐 Projects & Links
+## 🌐 Connect
 
 <p align="center">
 
 <a href="https://github.com/userrasa">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://worldcupfa.ir">
-<img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=googlechrome"/>
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome" />
 </a>
 
 </p>
@@ -104,5 +122,5 @@ Linux Environment
 ---
 
 <p align="center">
-  <i>Building tools, automating systems, and exploring Linux.</i>
+  <i>Building Linux tools, improving systems, and exploring open source.</i>
 </p>
