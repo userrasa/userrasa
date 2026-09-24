@@ -36,26 +36,20 @@ building:
 
 ## 🚀 Featured Project
 
-<div align="center">
+### 🛠 Ubuntu Desktop Optimizer
 
-<a href="https://github.com/userrasa/Ubuntu-Desktop-Optimizer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=userrasa&repo=Ubuntu-Desktop-Optimizer&theme=transparent&hide_border=true" />
-</a>
-
-</div>
-
-### Ubuntu Desktop Optimizer
-
-A Linux toolkit for diagnosing, optimizing, and repairing Ubuntu systems through automated checks.
+A Bash-based Linux maintenance toolkit for diagnosing, optimizing, and repairing Ubuntu systems.
 
 Features:
 
 - 🔍 System health scanning
-- 🛠 Automated troubleshooting
-- 📦 Package management
+- 🔧 Automated troubleshooting
+- 📦 Package repair
 - ⚙️ Service diagnostics
 - 🔐 Permission checks
-- 🖥 GNOME customization helpers
+- 🧩 GNOME customization helpers
+
+[View Project →](https://github.com/userrasa/Ubuntu-Desktop-Optimizer)
 
 ---
 
