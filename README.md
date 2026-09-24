@@ -86,19 +86,11 @@ Ubuntu Desktop Optimizer
 <p align="center">
 
 <a href="https://github.com/userrasa">
-GitHub
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="https://worldcupfa.ir">
-Website
+<a href="https://worldcupfa.ir/">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
-</p>
-
----
-
-<p align="center">
-  <i>Building Linux tools and exploring open source.</i>
 </p>
